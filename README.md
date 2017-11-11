@@ -10,7 +10,9 @@ Email: jonatas.t.belotti@hotmail.com
 <p>A rede possui 3 entradas entradas e 16 neurônios em sua única camada neural.
 Conforme a imagem a seguir.</p>
 
-![Alt text](./arquiteturaRede.jpg)
+<p align="center">
+  <img src="./arquiteturaRede.jpg" width="500"/>
+</p>
 
 <h2>Arquivos</h2>
 <p>Os arquivos do repositórios são:</p>
